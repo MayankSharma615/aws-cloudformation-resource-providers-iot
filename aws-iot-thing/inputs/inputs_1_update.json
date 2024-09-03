@@ -1,5 +1,5 @@
 {
-  "ThingName": "CfnContractTestThing",
+  "ThingName": "{{uuid}}",
   "AttributePayload": {
     "Attributes": {
       "testAttribute1": "testAttributeValue1",
